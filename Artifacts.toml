@@ -1,0 +1,469 @@
+[[yaxt]]
+arch = "aarch64"
+git-tree-sha1 = "304500d9cef9cf92e78b8001d70d643e293a7a10"
+mpi = "mpiabi"
+os = "macos"
+
+    [[yaxt.download]]
+    sha256 = "5b82d919b955b24389d1d7d8f7eba847535ff61f985ac1592393fa0c1382601f"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.aarch64-apple-darwin-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "aarch64"
+git-tree-sha1 = "47a9e2ee0835d214dbaa66e5d66029311e0da0c9"
+mpi = "mpich"
+os = "macos"
+
+    [[yaxt.download]]
+    sha256 = "c488666e23c9113059b7d13266cdf1c12fb14e7af6c20b88d15a3a60ea6e57b7"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "aarch64"
+git-tree-sha1 = "8bb0f2a90aee41bef1b0d16dbabd67bf16c13ae8"
+mpi = "openmpi"
+os = "macos"
+
+    [[yaxt.download]]
+    sha256 = "3a4749cd82abbad2c68434b6297b7ba58b5cf4944f9e7dcedd5d4084fd34dbd7"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "aarch64"
+git-tree-sha1 = "67bb75102d5d8bc870db48b8176d438dc318ef6b"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "2d2bf3d427cf34b14d9d380a2d9dbc91b37f5af17d623bc0fa5a33622895384c"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.aarch64-linux-gnu-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "aarch64"
+git-tree-sha1 = "3e3bfdbf8edc63982e75e8e894e60c49509b8da4"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "48350105ced08098c66634c68e7a43e3e5ab7d04540259905c0293d34f0e718d"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.aarch64-linux-gnu-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "aarch64"
+git-tree-sha1 = "3482ece672f3f9b6b83686831973596c656470e1"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "a2850aac0684bbf2e87f453c07fa016ed90d00d6cb34022c4ed7fd62b6740eae"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "aarch64"
+git-tree-sha1 = "b1ce7dbdc90a2c15732e8f0e9b743615df92983b"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "598c2ec6ce7dad2af9c71df9351a610c249c250a1d1f9c6322be38546fd034ea"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.aarch64-linux-musl-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "aarch64"
+git-tree-sha1 = "6797a6fc02edde45257d3209a16551a65e17a652"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "33083a04395dcf88e5ba27327cdf6e46593412b6f793f86bd1ce10f4c95f1492"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.aarch64-linux-musl-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "aarch64"
+git-tree-sha1 = "7a248985455f7da8606752e7b247b17d6da71e45"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "34a97b423a748b5d2c08c5200f27414ec328029bf53b25ab87eaf27d7a9d42b7"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.aarch64-linux-musl-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "aarch64"
+git-tree-sha1 = "6a7ec3e2daff345e36aeb131afd5d64b8809b136"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[yaxt.download]]
+    sha256 = "67f8152461bd0eab4ee74afc25616aa8da737b367a7ccca9d79839bb7fdecdbf"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.aarch64-unknown-freebsd-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "aarch64"
+git-tree-sha1 = "5323334b77a573563d50ac5ac167a0ba8da54b6f"
+mpi = "mpich"
+os = "freebsd"
+
+    [[yaxt.download]]
+    sha256 = "a261f3ccaf6108b91de31383e9772b3da335b9c8282dbc199163dcd0f1b923d6"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "aarch64"
+git-tree-sha1 = "acbfd214f19926ff7e0e6fd16dc2856a8470217b"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[yaxt.download]]
+    sha256 = "c7cd285759b5ad75a1fc7b091ba0285fd834ab75ec5f4ea43a36babd4a64596d"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ba8dcd34ebd33bece4080ba12aa91e916100ce85"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "73ac30086ca587760d64afca7ab4c461cfef59c915058cafaa07279c6f0865fa"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.armv6l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "58d49f13393557b437efabeb85745c82d9a364fb"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "21061fb3b7bd0883dd57100cd7c3b299fbaa98ae22fcb963072f9e7aa4072e3c"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "86c507efe8c279d118b7fbc6651d8ed5cd953f49"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "90b81f3c75a282943342f5ad9a1b387fac9dbe7bcf971bfa9799ede8dd07018d"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.armv6l-linux-musleabihf-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ac67f48514510434df697e8aab25166877e0abd7"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "923a6a225981978151f290d4ee00b7a7ebab5a4e9b4e3c52deb9ae1256bdccfb"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "005b607ba0b367d945b5d69bd42972ff9b1337f0"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "dcdf2cf686dcc1682c16bca86a544249916cad3c06524dff21a0a937511b4930"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "344f89821a30adfc522eebea6c923f5578e5640d"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "d116ca7e7d2fd3feeff9b3dfd995a6572949678aff02b35efe80091201d8caf0"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.armv7l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "82bf4fd234b1392a61e9993af0c0ea629d01e9f5"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "05fa91fe17c7ef237b0c564ef948c1529925cc6b5a43f1732b9f789d0603f289"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "78ddfe0994df76ec2657f3ea227d45e09c134e83"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "1b70e96408a172c5d69d5e7bf22e416a4a69a2a6f8fce0aea077338a7b72df35"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1f5e5951eddc6bd9f59b390ee1e3fa79fc0e32e2"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "d4b4f09e59c8b2dd26321249528aba6abff5a774c96b457e7f8d64c6dc0dd2dc"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.armv7l-linux-musleabihf-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8dd00dc0742b3cfe512ee728d58861bcfcdb103a"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "c37a1e2caf8b11440fb90709cbe4e600bee6555618f72230fd72cbdfdab1e320"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "97e4269cb0217f888c233aa08f3fac925c031252"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "1a677277178c0f1ff7b98e7ba2f82828ff4643e881bb258b39feba6963d32237"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "i686"
+git-tree-sha1 = "53486523615efe91d3cd46c059e36ea872c2d578"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "7e3471b9a3e0d84647a53cc5730f5011973b6a34c85f34803c3a007142489cf3"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.i686-linux-gnu-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "i686"
+git-tree-sha1 = "af0ce4a26345036e05cc200b2c56b2915392f80d"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "0f8e4474d05fb1f65992253f8d796f64904cc9c7c022a18944af8d2530f45bc1"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.i686-linux-gnu-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "i686"
+git-tree-sha1 = "2377b5558e5f4a873ce9236edce846d4a3aebf61"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "f44085485c84372dd583cc2a5cf78e41bd4bbb86a9302ccc2b708f1e44842d58"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.i686-linux-gnu-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "i686"
+git-tree-sha1 = "f09f4d523dfff9366bb502a2ffba39d73b64b36e"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "97aafd452cb4ebf7e6eb4fb003de449cad7ccbc8684eb88304b02b65b440317c"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.i686-linux-musl-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "i686"
+git-tree-sha1 = "7d03919df9171981558ff2fde2199f2a529e3d68"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "4a7cefcfdf7c53e695a59f6b411c29f6d36d8fbeb6c44dd0cac035d7a57fc03e"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.i686-linux-musl-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "i686"
+git-tree-sha1 = "dfa61f02edaeb656c1ff05c88b474540695b748a"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "205b75e5f780b6396addfc637da0e35f6317326c90df1e7b372c77f309e78e24"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.i686-linux-musl-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "powerpc64le"
+git-tree-sha1 = "fc55b72ddf3cdc9e0048642425a6bed1b5caecb0"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "8212ab4529647851d7be2686e05e7473cfa26133c60c9fc637be6acb163612ba"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.powerpc64le-linux-gnu-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "powerpc64le"
+git-tree-sha1 = "65fb834823f4a3571826962cacac6a63fec3ff40"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "640ae929844ff3b02a22c674eb0f9c0fc154ff86bf863b2bfcabc8a62089d585"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "powerpc64le"
+git-tree-sha1 = "4057c89e144ecad2928d95065306fafc7c838fb9"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "a216f7d4e98f1005492e3c2f3253b284e49a73a808a0435ba62cc56353267e1f"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "riscv64"
+git-tree-sha1 = "05980caec8b7e2fa4b0943132739b6a943f4c22d"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "d3fb913e9eb675e6e4b86b545d6ccef124a11e18b3a11dab219e74347e12c5e9"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.riscv64-linux-gnu-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "riscv64"
+git-tree-sha1 = "66d75bffb014e8901eb3148fa18c44e48f3e57a5"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "24424720a57981a76b0ea34b12b2912802d49fa3cfb911420d8c392b72922e35"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.riscv64-linux-gnu-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "riscv64"
+git-tree-sha1 = "c4d5ba69c48e8499053d262c89177ddbcea44022"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "96c1d6cde255187197f2f6ce127eca816f6efe37c7a28e805c6069c1f6989735"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.riscv64-linux-gnu-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "x86_64"
+git-tree-sha1 = "405019050c826fc5f2c7e7e64d05b474bbcd5afb"
+mpi = "mpiabi"
+os = "macos"
+
+    [[yaxt.download]]
+    sha256 = "8698e32ab2e39b2e8b608a0080bb5220017b4e19cdd936161d332307b1b8cf37"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.x86_64-apple-darwin-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "x86_64"
+git-tree-sha1 = "d03c03fa9dbafce589ff187770ac4f5a76a9f5c9"
+mpi = "mpich"
+os = "macos"
+
+    [[yaxt.download]]
+    sha256 = "17ea871451363ca7736411261eec8605cddd3bf4978ce42603189ac5dacba4a1"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "x86_64"
+git-tree-sha1 = "eb85a442859f7abde42c63841cb1600fd7781bfe"
+mpi = "openmpi"
+os = "macos"
+
+    [[yaxt.download]]
+    sha256 = "c5d6d28c2df6b460655b61ec052984be314756828094532301350d09555c25a6"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "x86_64"
+git-tree-sha1 = "a9eafc058cdd40d371b5a3236e79bda818673118"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "7786979350b373d9c2574230ed9562b1fb9025476a5aa38fe9d606050dbf8c94"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.x86_64-linux-gnu-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "x86_64"
+git-tree-sha1 = "95ba7d64c90e247d4d7895a3588d8a30d4e11880"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "77f99c868561d79733b99a698c0a222d6b1b47e0f52f89b49c785112d200630c"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.x86_64-linux-gnu-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "x86_64"
+git-tree-sha1 = "67aa1e7e0e9d79fc690aab32a191a445e8cc8b59"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "89fca3464ba220dbc4eb69a1553250137bd7504d308c90a44eb2ad716a246dbe"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "x86_64"
+git-tree-sha1 = "002f78aa653d40a893cf3f610d682e287d8ab376"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "765c4e6682fbaaa373d65c9eaee3f454d9dad9782e78f74f1fae98592d791371"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.x86_64-linux-musl-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "x86_64"
+git-tree-sha1 = "fe4863444849b6fb444ad7f1187d278e169c1446"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "e2c35628bb05b3ce3455b70a827c702df0af0d78d0ce746a57c992150414def4"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.x86_64-linux-musl-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "x86_64"
+git-tree-sha1 = "1c632a8d82b51aff173a0bb22e5aeaaacdd270f9"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[yaxt.download]]
+    sha256 = "b6bc724286897340b95057b861da3fbf91d0bd28c824a91eb81e89242c37650f"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.x86_64-linux-musl-mpi+openmpi.tar.gz"
+[[yaxt]]
+arch = "x86_64"
+git-tree-sha1 = "5533cbdf826dc2b362ddecf18f5072e40a49f8f4"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[yaxt.download]]
+    sha256 = "a70ae1fe9ae06959de2a1fffc231c4b7872c224d935aca3da97ba4bc6d3e8a31"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.x86_64-unknown-freebsd-mpi+mpiabi.tar.gz"
+[[yaxt]]
+arch = "x86_64"
+git-tree-sha1 = "9c9e2caecb8632e4506bc42755b8778eadc626dc"
+mpi = "mpich"
+os = "freebsd"
+
+    [[yaxt.download]]
+    sha256 = "5826c1a7bf20672fd4ddaedaef2b1df9027366aa376f101b5265d4ba773181be"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+[[yaxt]]
+arch = "x86_64"
+git-tree-sha1 = "153eea86c2c1c81a2b05a669ab8568abe82c3fcc"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[yaxt.download]]
+    sha256 = "c3191e8fe8b5647c5b07babe99d0d0230cf1259705f5ed49b1190c18406e4908"
+    url = "https://github.com/JuliaBinaryWrappers/yaxt_jll.jl/releases/download/yaxt-v0.12.1+0/yaxt.v0.12.1.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
